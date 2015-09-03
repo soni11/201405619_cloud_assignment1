@@ -1,0 +1,4 @@
+USAGE:
+``````
+$> sudo python MiniNetwork.py 6 4
+$> pingall (to see created network)
